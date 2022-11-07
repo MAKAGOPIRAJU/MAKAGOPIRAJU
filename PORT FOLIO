@@ -1,0 +1,482 @@
+<html>
+    <head>
+        <script src="https://kit.fontawesome.com/d020e05036.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia&effect=fire">
+        <link rel="stylesheet" href="dropdown.css">
+        <title>
+            MAKA GOPI RAJU
+        </title>
+    </head>
+    <style>
+    /* head section name bar*/
+        h1{
+            text-align: center;
+            font-size: 50px;
+           
+            color:white;
+            border-radius: 50px ;
+            background-color: black;
+            box-shadow: 5px solid black;
+            letter-spacing: 10px;
+            text-decoration: underline ;
+            text-decoration-color: blue;
+           font-family: "Trirong", sans-serif;;
+            
+
+            
+        }
+        ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+  ul li {
+  float: left;
+}
+
+ ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
+  
+}
+
+ ul li a:hover {
+  background-color: #111;
+  font-size: 10px;
+}
+        h1:hover{
+            background-color: darkcyan;
+          letter-spacing: 10px;
+            border-radius: 50px;
+            font-family: "AudiAudiowide", sans-serif;
+            font-size: 50px;
+            text-shadow: 5px 5px 15px red;
+
+            
+        }
+        body{
+            background-color: rgb(119, 136, 153);
+            border-radius: 5px;
+        }
+        resume{
+            box-shadow: 5px 10px 10px white;
+        }
+        
+        /* UPPER SECTION*/
+        .top{
+            background-image:url("https://tse2.mm.bing.net/th?id=OIP.zNmlw_THlu5xMLvXrSg2zwHaE8&pid=Api&P=0") ;
+            border-radius: 1px 1px 300px 350px ;
+            height: 420px;
+            
+            
+        }
+        /* my imagee*/
+        .g{
+            
+            border-radius: 150px;
+            
+            text-align: center;
+            height: 200px;
+            width: 200px;
+            margin-left: 500px;
+            margin-top: 0px;
+            margin-bottom: 5px;
+            
+            
+         }
+         .k{
+             text-decoration: none;
+            
+             list-style-type: none;
+             float: right;
+             padding:30px;
+             margin-right: 50px;
+         }
+         .p{
+             color:white;
+             font-size: 25px;
+             font-family: Arial, Helvetica, sans-serif;
+             text-align: center;
+             margin-left: 210px;
+         }
+         /* section management*/
+         .x{
+
+                font-size: 20px;
+                font-family: 'Courier New', Courier, monospace;
+                color: black;
+         }
+         .z{
+             background-color: black;
+             color: white;
+             font-size: 30px;
+             width: 800px;
+             height:auto;
+             padding: 20px;
+             text-align: center;
+             align-items: center;
+            margin-left: 300px;
+         }
+         .z a{
+             text-align:center ;
+         }
+         
+
+         
+         .h{
+             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         }
+         /* education section*/
+         .R{
+             
+             margin-left: 10px ;
+             width: 200px;
+             font-size: 20px;
+             color:white;
+             background-color: black;
+             padding: 15px;
+
+         }
+         
+        /* TABLE SECTION*/
+         
+         *{
+             box-sizing: border-box;
+
+         }
+         
+             
+         
+         .column 
+         {
+         float: left;
+         padding: 10px;
+        }
+
+
+        .column.left 
+        {
+          width:50%;
+        }
+
+
+        .column.right
+        {
+         width: 50%;
+        }
+
+
+         .row:after
+          {
+        content: "";
+        display: table;
+        clear: both;
+        }
+
+      @media screen and (max-width: 600px) {
+      .column.right,.column.left {
+       width: 100%;
+     }
+    }
+     /*skills */
+    
+       .Q{
+           color:white;
+           background-color: blueviolet;
+           border-radius: 15px;
+           font-size: 20px;
+           list-style-type: none;
+           text-decoration: none;
+           width: 280px;
+           text-align: center;
+           padding: 10px;
+           margin-left: 50px;
+       }
+       .E{
+             
+             margin-left: 10px ;
+             width: 400px;
+             font-size: 20px;
+             color:white;
+             background-color: black;
+             padding: 15px;
+             font-family:Georgia, 'Times New Roman', Times, serif;
+       }
+       /* personal information*/
+       pre{
+           color: black;
+           padding: 15px;
+           font-size: 15px;
+           font-family: Arial, Helvetica, sans-serif;
+          
+       }
+       /* languages*/
+       .lan{
+           background-color: cornflowerblue;
+           color: white;
+           font-family: monospace;
+           font-size: 20px;
+           border-radius: 10px;
+           max-width: 150px;
+           text-align: center;
+          
+           padding: 5px;
+       }
+       div2{
+          
+       }
+       div2:hover{
+           background-color: rgba(255, 0, 230, 0.812);
+           max-width:300px;
+           margin-left: 100px;
+       }
+       /*project section*/
+       .N{
+           width: 400px;
+           height: 300px;
+       }.N:hover{
+           border-radius: 5px;
+           text-shadow: 5px 5px 15px white;
+           width: 450px;
+           height: 350px;
+         border:2px solid white;
+         cursor: pointer;
+
+       }
+
+       /*hover functions*/
+       .li:hover{
+           background-color:brown;
+           font-size: 40px;
+           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           border: 3px solid yellow;
+           text-shadow: 5px 5px 20px white;
+          
+       }
+       h2:hover{
+           background-color: antiquewhite;
+           color: blue;
+           text-decoration: underline;
+           text-decoration-color: cadetblue;
+           max-width: fit-content;
+       }
+       i:hover{
+           
+         
+           transform: rotate(360deg) scale(1,2);
+           max-width: fit-content;
+           color: blue;
+           cursor: pointer;
+       }
+      
+       edcation:hover{
+           background-color:rgb(153, 119, 119);
+           color:white;
+           font-size: 20px;
+           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           max-width: fit-content;
+       }
+       skills:hover{
+           background-color: darkgray;
+           max-width:fit-content;
+           
+       }
+       pre:hover{
+           background-color: chocolate;
+           max-width: fit-content;
+           color: aliceblue;
+           font-size: 20px;
+       }
+       .Q:hover{
+        background-color:brown;
+           font-size: 30px;
+           font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           border: 3px solid rgba(255, 255, 0, 0.693);
+           text-shadow: 5px 5px 20px white;
+       }
+
+      /* p:hover{
+           background-color: darksalmon;
+           font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           font-size: 30px;
+           width:fit-content;
+       }*/
+     
+     
+     
+
+        </style>
+<body>
+    <resume>
+        
+        <ul class="ok">
+           <li> <i  style="color: white;margin-left: 2px;font-size: 30px;padding: 14px 16px;"class="fa-solid fa-bars"></i></li>
+            <li  style="margin-left: 100px;font-size: 20px;"class="os"><a href="#home">Home</a></li>
+               <li class="dropdown2">
+                <a href="javascript:void(0)" class="dropbsn,os" style="margin-left: 100px;font-size: 20px;">Tools</a>
+                <div class="dropdown2-content">
+                    <a class="tool" href="https://code.visualstudio.com/Download" target="_blank">Visual Studio code</a>
+                    <a href="https://www.sublimetext.com/download" target="_blank">Sublime text</a>
+                   
+                  </div>
+               </li>
+            <li class="dropdown2">
+              <a href="javascript:void(0)" class="dropbsn,os"style="margin-left:150px;font-size:20px;">Skills</a>
+              <div class="dropdown2-content">
+                <a href="https://www.w3schools.com/html/default.asp" target="_blank">HTML5</a>
+                <a href="https://www.w3schools.com/css/default.asp" target="_blank">CSS3</a>
+                <a href="https://www.w3schools.com/js/default.asp"target="_blank">JAVASCRIPT</a>
+              </div>
+            </li>
+          </ul>
+          
+  <mainbar style="margin-top: 1px;">
+    <div class="top"> 
+        
+    <h1 class="font-effect-fire"><marquee style="width:75%; ">MAKA GOPI RAJU</marquee></h1>
+       <div class="dropdown">
+        
+        
+      
+  <img  class="g"  style="text-align: center;"src="https://tse1.mm.bing.net/th?id=OIP.AB-SLwGxH6k0AQYM2iLemwHaKf&pid=Api&P=0">
+  <div class="dropdown-content">
+    <img src="https://tse4.mm.bing.net/th?id=OIP.8zIsBvRd5xnRcXjXwqql-AAAAA&pid=Api&P=0" style="font-size: 100px; width: 300px;height: 600px;">
+    <a href="file:///C:/Users/gopir/Downloads/project.html#"></a>
+    
+    </div>
+  </div>
+ 
+  <ol class="k">
+  <li  class="li"style="color: white; height:60px;font-size: 30px;font-family: cursive;"><a href="#"><i  style="width: 90px;height: 50px;color:gray; border-radius:5px;transition: 0.3s linear;padding: 5px;"class="fa-solid fa-phone"></i></a>7337475946</li>
+  <li class="li" style="color: white; height:60px;font-size: 30px;font-family: cursive;"><i  style="color:greenyellow; font-size: 30px;height: 60px; border-radius:100%;transition: 0.3s linear"class="fa-solid fa-envelope"></i>rajumaka911@gmail.com</li>
+  <li  class="li"style="color: white; height:60px;font-size: 30px;font-family: cursive;"><a href="#"><i  style="width: 90px;font-size: 30px;height: 50px; color:blueviolet; border-radius: 5px;transition: 0.3s linear" class="fa-brands fa-instagram-square"> </i></a>instagram</li>
+  <li  class="li"style="color: white; height:60px;font-size: 30px;font-family: cursive;"><a href="#"><i  style="width: 90px; font-size: 30px;height: 50px;color:blue; border-radius: 5px;transition: 0.3s linear" class="fa-brands fa-linkedin"></i></a>linked-in</li>
+  <li class="li"style="color: white; height:60px;font-size: 30px;font-family: cursive;"><a href="#"><i style="width: 90px; font-size: 30px;height: 50px;color:white; border-radius: 5px;transition: 0.3s linear" class="fa-brands fa-twitter"></i></a>twitter</li>
+  </ol><br>
+  <p class="p">FRESHER</p>
+  <P class="p"> ____TARGET_____SENIOR WEB DESIGNER!</P>
+ 
+
+    </div>
+    
+    <section>
+        <p class="z">SUMMARY</p>
+        <p class="x">Strong in design and integration with intuitive problem-solving skills. Proficient in JAVASCRIPT, PYTHON,HTML5, CSS. Passionate about implementing and launching new projects. Ability to translate Company requirements into technical solutions. Looking to start the career as an entry-level Web Developer with a reputed firm driven by technology.</p>
+    </section>
+    <div  class="row">
+    <edcation class="column left" >
+   <p class="R"><i style="color:white;font-size: 20px;"class="fa-solid fa-graduation-cap"></i>EDUCATION</p>
+       
+        <h2><i class="fa-solid fa-building-columns"></i>
+            HINDUSTAN INSTITUTE OF TECHNOLOGY 
+        </h2>
+        <P>
+            BACHELOR OF ENGINEERING,COIMBATORE
+        </P>
+        <p class="h">
+            Have a specialization skills on communicating with the help of Programming <br>Languages to the Various Software Applications and Capable to implement them <br>Web Sites and launching the new Projects.Got the Skills with CGPA 8.2 and to <br>having the adorable performance.
+        </p>
+        <h2><i class="fa-solid fa-building-columns"></i>
+            SPR JUNIOR COLLEGE
+        </h2>
+        <p >
+            PMC,ONGOLE
+        </p>
+        <P class="h">
+            Getting more advanced in Basics to be-half of think about my future and got Upskilled<br> with CGPA:9.8 in the particular filed of PHYSICS,MATHS,CHEMISTRY(PMC).
+        </P>
+        <h2><i class="fa-solid fa-school"></i>
+            Z P HIGH SCHOOL
+        </h2>
+        <p>STATE SYLLABUS,AP BOARD</p>
+        <P class="h">The place where i found disciplane,integrity and hardworking level of acheivement to ovethrough <br>about the life</P>
+    </edcation>
+    <skills class="column right">
+       <h2 style="background-color: black;color: white;font-size: 30px;padding: 15px; width: 300px;margin-left :70px;;padding-left: 20px;"><i style="background-color:gold;font-size: 30px;"class="fa-solid fa-align-justify"></i>SKILLS</h2>
+       <ol style="padding: 15px;">
+           <li class="Q" sty >PYTHON</li><br>
+           <li class="Q">DATASTRUCTURES</li><br>
+           <li class="Q" >HTML5</li><br>
+           <li class="Q">CSS3</li><br>
+           <li class="Q">JAVASCRIPT</li><br>
+           <li  class="Q">PHOTOSHOP</li><br>
+           <li class="Q" >LEADER SHIP</li>                                        
+          
+       </ol>
+    </skills>
+    </div>
+    <hr style="color: #000;"><hr style="color: #000;">
+    <div  class="row">
+    <div1  class="column left">
+        <p class="E"><i style="color:white;font-size: 20px;"class="fa-solid fa-circle-user"></i>PERSONAL INFORMATION</p>
+        <pre style="padding: 15px;font-size: 25px;">
+                        <i class="fa-solid fa-user"></i> NAME      :  MAKA GOPIRAJU<br>
+           <i class="fa-solid fa-user-large"></i>FATHER NAME     :  MAKA VENKATESWARLU<br>
+            <i class="fa-solid fa-person-dress"></i>MOTHER NAME     :  MAKA KOTESWARAMMA<br>
+         <i class="fa-solid fa-calendar"></i>    DATE OF BIRTH   :  02/06/2002<br>
+                <i class="fa-solid fa-location-dot"></i>ADDRESS         :  ONGOLE,ANDHRA PRADESH<br>
+        <i class="fa-solid fa-ring"></i>MARTIAL STATUS   :  SINGLE<br>
+<i class="fa-solid fa-user-graduate"></i> YEAR OF COMPLETION  :   2023
+        </pre>
+    </div1>
+    <div2 class="column right">
+    <languages >
+        <h2 class="R"><i style="color:white;font-size: 20px;"class="fa-solid fa-language"></i>LANGUAGES</h2>
+        <p class="lan" style="margin-left: 20px; color: black;">TELUGU</p>
+        <p class="lan" style="margin-left: 20px; color: #000;">ENGLISH</p>
+        <p class="lan" style="margin-left: 20px;color: #000;">HINDI</p>
+        <P class="lan" style="margin-left: 20px;color: #000;">TAMIL</P>
+    </languages>
+    <hobbies style="display: inline-block;">
+     <h2 class="R"><i  style="color:white;font-size: 20px;"class="fa-solid fa-circle-h"></i>HOBBIES</h2>
+      <p style="color: indigo; height: 50px; font-size: 30px; background-color: rgba(135, 197, 222, 0.512); padding: 5px;max-width: 300px;"><i style="color: indigo; height: 30px; font-size: 30px ;"class="fa-solid fa-plane-departure"></i>TRAVELLING</p>
+     <p style="color:rgba(255, 55, 0, 0.799); height: 50px; font-size: 30px;background-color: burlywood; padding: 5px; max-width: 300px;" ><i style="color:rgba(255, 89, 0, 0.848); height: 30px; font-size: 30px;" class="fa-solid fa-trophy"></i>GAMES</p>
+    <P style="color:darkcyan; height: 50px; font-size: 30px; background-color: burlywood;padding: 5px;max-width: 300px;"> <i style="color:darkcyan; height: 30px; font-size: 30px;" class="fa-solid fa-music"></i>MUSIC</P>
+    </hobbies>
+    </div2>
+    </div>
+    <projects>
+        <p class="z"><i style="color:white;font-size: 30px;padding: 5px;"class="fa-solid fa-bars-progress"></i>PROJECT</p>
+        <div style="padding: 15px;" >
+       <a href="file:///C:/Users/gopir/Downloads/project.html" target="_blank"><img style="padding: 20px;margin-left: 200px;"  class="N"src="https://tse4.mm.bing.net/th?id=OIP.njnkKsXuwvc5cYpRSH26ywHaFd&pid=Api&P=0"></a>
+       <a href="#"><img  style="padding: 20px;margin-left: 100px;"class="N"src="https://tse1.explicit.bing.net/th?id=OIP.PkLXsHn4CjlKh_m38RGTswHaE8&pid=Api&P=0"></a> 
+        </div>
+        <div>
+          <a href="#">  <img  style="padding: 20px;margin-left: 210px;"  class="N"src="https://tse3.mm.bing.net/th?id=OIP.k6OAvk0L-SQoPsju1ljG3gHaE6&pid=Api&P=0"></a>
+           <a href="#"><img style="padding: 20px;margin-left: 100px;"  class="N"src="https://tse4.explicit.bing.net/th?id=OIP.f8pv-u_7mVOxAYOMyKaIcgHaFj&pid=Api&P=0"></a> 
+        </div>
+    </projects>
+    
+    <div class="row" style="background-color:black ;width:1500px;padding: 30px;height: 750px;">
+        <back style="background-color:black;opacity: 1;">
+        <div class="column left" style="margin-left: 0px;">
+        <p style="font-size: 30px;color: white;font-family: cursive;">Hire <span style="color: red;">Me</span></p>
+        <p style="color: white;">I am avalilable for freelance work.to connect with contact me via phone:7337475946 and gmail:rajumaka@gmail.com</p>
+        <input style="padding: 15px; border-radius: 10px;width: 500px;height: 50px;background-color:white;color: #000;" type="text"placeholder="Enter your name"><br><br>
+        <input style="padding: 15px; border-radius: 10px;width: 500px;height: 50px;background-color:white;color: #000;" type="text"placeholder="Enter your Email"><br><br>
+        <input style="padding: 15px; border-radius: 10px;width: 500px;height: 50px;background-color:white;color: #000;" type="text"placeholder=" Enter your mobile number" ><br><br>
+        <input style="padding: 15px; border-radius: 10px;width: 500px;height: 150px;background-color:white;color: #000;"type="text"placeholder="Description"><br><br>
+        <button style="padding: 15px; border-radius: 10px;width: 150px;color:white;background-color: red;margin-left: 150px;cursor: pointer;border: 2px solid white;"type="text">Submit</a></button>
+
+        </div>
+
+
+        <div3 class="column right">
+    <img style="height: 600px ;width: 600px;" src="https://i2.wp.com/www.itechfever.com/wp-content/uploads/2016/08/dark-mode-windows-10.jpg?fit=1920%2C1080&ssl=1">
+</div3>
+</back>
+    </div>
+      
+  </mainbar> 
+     
+</resume>
+</body>
