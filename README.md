@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m GOPIRAJU MAKA 👋
 
 <!--
 **MAKAGOPIRAJU/MAKAGOPIRAJU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I'm GOPIRAJU MAKA 👋 <br>I'm a passionate software developer with Java, Spring Boot, and MySQL expertise. <br>I enjoy solving complex problems and have tackled over 500 coding challenges on LeetCode. <br>My experience spans building robust APIs and developing full-stack applications, with hands-on experience in frameworks like Spring Security and JWT. <br>Currently, I'm honing my skills in cloud technologies such as Docker and Kubernetes. Let's connect!
+- 🔭 I'm a passionate software developer with Java, Spring Boot, and MySQL expertise.......
+- 🌱 I enjoy solving complex problems and have tackled over 500 coding challenges on LeetCode.....
+- 👯 My experience spans building robust APIs and developing full-stack applications, with hands-on experience in frameworks like Spring Security and JWT...
+- 🤔 Currently, I'm honing my skills in cloud technologies such as Docker and Kubernetes...
 
 
 ## 🌐 Socials:
